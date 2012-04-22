@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Sun Apr 22 17:32:31 EDT 2012
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=umb-latex-template.tex
+outputFile=umb-latex-template.pdf
+langSpell=en
+markDer=true
+srcDir=
